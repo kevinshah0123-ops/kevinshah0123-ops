@@ -136,7 +136,7 @@ graph LR
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#alviora-connect-linkedin)
-[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://localhost:3000/p/nathan-drake-702e9c?v=1790685056)
+[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://localhost:3000/p/nathan-drake-702e9c?v=1790685071)
 [![Email](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=riged17996%40pumpoly.com)
 
 </div>
